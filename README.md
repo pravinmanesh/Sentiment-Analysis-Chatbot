@@ -17,8 +17,8 @@ To start the chatbot and predict the sentiment of input text, run:
 
 ```bash
 python sentiment_analysis_chatbot.py
-You will be prompted to enter text for sentiment analysis. To exit the program, type stop.
 ````
+You will be prompted to enter text for sentiment analysis. To exit the program, type stop.
 
 ## Model Architecture
 The sentiment analysis model is built using TensorFlow and Keras. It consists of the following layers:
